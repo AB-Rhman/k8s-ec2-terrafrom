@@ -1,0 +1,10 @@
+vault.yml
+publickey.pem
+private-key.pem
+pass-vault.txt
+*.terraform
+*.terraform.lock.hcl
+*.tfstate
+./files/hosts
+.etc/
+.vscode/
